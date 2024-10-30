@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.essentra.config.\
+    SqlTestContainersSpringContextCustomizerFactory,com.essentra.config.\
+    TestContainersSpringContextCustomizerFactory,com.essentra.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
